@@ -53,3 +53,5 @@ class Game extends Display{
     }
   }
 }
+
+const play = () => new Game;
